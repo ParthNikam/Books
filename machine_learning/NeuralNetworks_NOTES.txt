@@ -1,0 +1,12 @@
+____________________________________________________________________________________________________________________
+
+Self Organizing Maps: the input layer maps data to the output layer.
+
+Hopfield NN: simplest type of nn because it is a fully connected single layer, auto-associative net.
+It has a single layer where each neuron is connected to every other neuron.
+The term auto-associative means that hte nn wil return the entire pattern if it recognizes a pattern.
+As a result, the net will fill gaps of incomplete distorted patterns.
+
+____________________________________________________________________________________________________________________
+
+
